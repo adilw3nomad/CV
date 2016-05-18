@@ -1,48 +1,18 @@
-## Your Name
+# Adil Ali
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+I am full-stack developer with a keen interest in software design and a strong desire to create beautiful code. I am not just seeking a job, I am looking for a challenge and an opportunity to express my creativity. I am excited by the diversity and fast pace of the tech industry, and want to make my mark by finding solutions and coming up with new ideas. I want to work alongside compassionate and hardworking people who share my love for pragmatic design and code craftsmanship. **I'm available 16th May, 2016**
 
-#### This Skill
+Skills
+----
+***
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+** Experiential learner ** :
+* One of my biggest strengths is my speed and style of learning new things. I dive into a subject and immerse myself within it, putting the knowledge that I gain into use immediately. I like to understand something from my own volition, and now want to further my personal development by working with and learning from great developers.
 
-#### Another Skill
+* I lived in Russia for a little over a year, picking up the (very difficult) language within the first three months. I achieved this by immersing my self in the culture and by constantly learning new phrases and putting them into practice immediately.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+* I taught myself Java and built an android app in the space of four days. I managed this by 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+** Compassionate Communicator **
